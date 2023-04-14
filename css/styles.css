@@ -1,0 +1,64 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    }
+
+    .act2 {
+        text-align: center;
+        display: inline-block;
+        }
+
+body {
+    background-color: rgb(255, 255, 255) ;
+    border: 15px inset rgb(104, 90, 90);
+  padding: 15px;
+  background-clip: padding-box;
+}
+h1 {
+    margin: 50px ;
+    text-align: center;
+    font-family: 'Lucida Sans';
+    text-shadow: 5px 0 #686060;
+    font-size: 7rem;
+    color: #000000;
+    
+}
+p {
+    font-size: 2rem;
+    color: #635b5b;
+    font-family: 'Lucida Sans';
+}
+.click-me {
+    margin-top: 5rem;
+    text-align: center;   
+    
+  
+}
+.rspimage{
+    width: 50%;
+    display: flex;
+    text-align: center;
+    margin-left: auto;
+    
+}
+img {
+    width: 75%;
+   
+}
+footer {
+    margin-top: 2%;
+    text-align: center;
+    font-size: 50% !important;
+}
+
+#button{
+    color: #000000;
+    background-color:#635b5b;
+    border-color:#635b5b;
+    cursor: pointer;
+    overflow: hidden;
+    padding: 20px;
+    margin-top: 0%;
+    width: 20%;
+}
